@@ -1,0 +1,75 @@
+
+.centered-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh; 
+  }
+  
+
+  .showcase-card {
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+  }
+  
+
+  .price,
+  .stock {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+
+  .sell-button,
+  .buy-button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+
+  .circle-container {
+    display: flex;
+    align-items: center;
+    align-items: center;
+    justify-items: center;
+  }
+  
+  .circle {
+    width: 100px;
+    height: 100px;
+    background-color: #007bff;
+    border-radius: 50%;
+    margin: 0 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .percentage {
+    font-size: 1.5em;
+  }
+  .centered-line-column-chart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px; /* Adjust the height as needed */
+    width: 900px; /* Adjust the width as needed */
+    margin: 20px 0; /* Add margin to separate from other elements */
+  }

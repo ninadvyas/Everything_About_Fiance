@@ -4,13 +4,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Everything About Phynanc',
+  title: 'Everything About Finance',
   tagline: '',
   favicon: 'img/favicon.ico',
   url: 'https://localhost:3000',
   baseUrl: '/',
-  organizationName: 'EAP', 
-  projectName: 'EAP', 
+  organizationName: 'EAF', 
+  projectName: 'EAF', 
   trailingSlash: false,
   deploymentBranch: 'deployment',
 
@@ -49,9 +49,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Everything About Phynanc',
+        title: 'Everything About Finance',
         logo: {
-          alt: 'EAP',
+          alt: 'EAF',
           src: 'img/logo.png',
         },
         items: [
@@ -83,10 +83,7 @@ const config = {
 
         externalUrlRegex: 'external\\.com|domain\\.com',
     
-        searchParameters: {},
-  
 
-        searchPagePath: 'search',
 
       },
       colorMode: {

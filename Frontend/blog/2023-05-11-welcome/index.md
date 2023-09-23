@@ -1,6 +1,6 @@
 ---
 slug: welcome
-title: Welcome
+title: Introduction
 authors: [sengpt]
 ---
 
