@@ -65,6 +65,9 @@ const config = {
           {to: '/track/', label: 'Expanse Tracker', position: 'left'},
           {to: '/portfolio/', label: 'Portfolio', position: 'left'},
           {to: '/stocks/', label: 'Stocks', position: 'left'},
+          {to: '/login/', label: 'Login', position: 'left'},
+          {to: '/signup/', label: 'Signup', position: 'left'},
+
         ],
       },
       prism: {
