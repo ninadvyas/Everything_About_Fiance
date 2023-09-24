@@ -13,7 +13,6 @@ const config = {
   projectName: 'EAF', 
   trailingSlash: false,
   deploymentBranch: 'deployment',
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   i18n: {
@@ -52,7 +51,7 @@ const config = {
         title: 'Everything About Finance',
         logo: {
           alt: 'EAF',
-          src: 'img/logo.png',
+          src: 'img/eaf.png',
         },
         items: [
           // {

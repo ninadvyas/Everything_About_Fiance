@@ -24,6 +24,7 @@
     "@mdx-js/react": "^1.6.22",
     "@mui/material": "^5.14.10",
     "apexcharts": "^3.42.0",
+    "axios": "^1.5.0",
     "clsx": "^1.2.1",
     "mdb-react-ui-kit": "^6.3.0",
     "mdb-ui-kit": "^6.4.1",

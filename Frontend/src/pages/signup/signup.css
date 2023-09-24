@@ -20,11 +20,18 @@
     margin-bottom: 20px;
     font-size: 24px; /* Increase font size for the heading */
   }
-  
+  .combine{
+    display: flex;
+    flex-direction: row;
+  }
   .input-group {
     margin-bottom: 20px; /* Increase margin between input groups */
   }
-  
+  .input-group1 {
+display: flex;
+flex-direction: column;
+
+  }
   label {
     display: block;
     margin-bottom: 10px; /* Increase margin between labels and inputs */
